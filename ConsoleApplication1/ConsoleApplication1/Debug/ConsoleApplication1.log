@@ -1,5 +1,0 @@
-﻿  Source.cpp
-c:\users\alex\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(3): fatal error C1083: Cannot open include file: 'Header1.h': No such file or directory
-  functii.cpp
-c:\users\alex\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\functii.cpp(1): fatal error C1083: Cannot open include file: 'functii.h': No such file or directory
-  Generating Code...

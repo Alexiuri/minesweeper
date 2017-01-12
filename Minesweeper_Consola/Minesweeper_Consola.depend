@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1484255182 source:e:\info_acasa\minesweeper_consola\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<sstream>
+	<time.h>
+	<stdlib.h>
+	<string>
+	<conio.h>
+
