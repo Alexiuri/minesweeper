@@ -24,8 +24,6 @@ public:
 	bool isWon();
 	bool isLost();
 	void coutField();
-	void draw();
-	private:{	
 	void addBombs();			
 	void initNumbers();			
 	void initVertex();
